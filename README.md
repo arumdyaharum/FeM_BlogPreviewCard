@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [FeM_BlogPreviewCard](https://github.com/arumdyaharum/FeM_BlogPreviewCard)
-- Live Site URL: [https://arumdyaharum.github.io/FeM_blogPreviewCard](https://arumdyaharum.github.io/FeM_blogPreviewCard)
+- Live Site URL: [https://arumdyaharum.github.io/FeM_BlogPreviewCard](https://arumdyaharum.github.io/FeM_BlogPreviewCard)
 
 ## My process
 
